@@ -3,7 +3,7 @@
 <a href="mailto:kchoudhary510199@gmil.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karan-choudhary-9a3426197/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - 🔭 I’m currently working on understanding Tensorflow you can check ```DeepLearning``` repository.
-- 🌱 I’m currently learning ***Feature Engineering*** and ***Transfer Learning*** 
+- 🌱 I’m currently learning ***Generative Adversarial Network*** and ***Object Detection*** 
 - 👯 I’m looking to collaborate on Machine Learning frameworks
 - 🤔 I’m looking for help with my portfolio website
 - 💬 Ask me about developments in Machine Learning and AI
