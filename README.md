@@ -28,6 +28,10 @@
 <a herf="https://code.visualstudio.com/">![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=417FDC)</a>
 <a herf="https://www.postman.com/">![PostMan](https://img.shields.io/badge/PostMan-FFFFFF?style=for-the-badge&logo=PostMan&logoColor=E3571C)</a>
 <a herf="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3_--a9sn1AhX8umMGHSxsDYQQFnoECAYQAQ&url=https%3A%2F%2Fwww.heroku.com%2F&usg=AOvVaw1V4lhSv6mb_lZj6UUCUXpS">![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=Heroku&logoColor=BE77F4)</a>
+<a herf="https://beautiful-soup-4.readthedocs.io/en/latest/">![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=BE77F4)</a>
+<a herf="https://aws.amazon.com/">![AWS](https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=AWS&logoColor=white)</a>
+<a herf="https://www.postgresql.org/">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)</a>
+
 
 ### My Top Languages
 
@@ -41,7 +45,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Karan Choudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Karan Choudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Karan Choudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</br>
 
 
@@ -58,5 +62,5 @@
 <br />
  -->
 
-[twitter]:https://twitter.com/ChoudharyNimant
+[linkedin]:https://www.linkedin.com/in/karan-choudhary-9a3426197/
 [instagram]:https://www.instagram.com/_karan_choudhary/
