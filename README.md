@@ -13,6 +13,7 @@
 
 ### Experience:
 
+<a href="https://www.pytorch.org/">![TensorFlow](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=PyTorch&logoColor=orange)</a>
 <a href="https://www.tensorflow.org/">![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)</a>
 <a herf="https://keras.io/">![Keras](https://img.shields.io/badge/Keras-C11616?style=for-the-badge&logo=Keras&logoColor=white)</a>
 <a herf="https://scikit-learn.org/stable/">![sklearn](https://img.shields.io/badge/Sklearn-18B1F2?style=for-the-badge&logo=ScikitLearn&logoColor=white)</a>
