@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ***Reinforcement Learning*** 
 - 👯 I’m looking to collaborate on Machine Learning frameworks
 - 💬 Ask me about developments in Machine Learning and AI
-- 📫 How to reach me: kchoudhary510199@gmail.com
+- 📫 How to reach me: kc5101999@icloud.com
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Karan-Choudhary.Karan-Choudhary)
 
