@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><a href="https://protfolio-site-eosin.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;"> Hi, I'm Karan Choudhary 👋</a></h1>
 
-<a href="mailto:kchoudhary510199@gmil.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karan-choudhary-9a3426197/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:kc5101999@icloud.com">![iCloud](https://img.shields.io/badge/iCloud-000000?style=for-the-badge&logo=icloud&logoColor=blue)</a> <a href="https://www.linkedin.com/in/karan-choudhary-9a3426197/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - 🔭 I’m currently working on various project like ```CodeEcho```, checkout repos for more info.
 - 🌱 I’m currently learning ***Reinforcement Learning*** 
